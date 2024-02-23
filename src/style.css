@@ -1,16 +1,18 @@
 .user-profile-card {
     border: 1px solid #3d0b37;
-    padding: 20px;
-    margin: 20px auto;
-    width: 300px;
+    padding: 10px;
+    margin: 15px auto;
+    width: 550px;
     text-align: center;
+    color: ivory;
+    background-color: rgb(213, 140, 151);
     border-radius: 10px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .user-profile-card img {
-    width: 100px;
-    height: 100px;
+    width: 125px;
+    height: 125px;
     border-radius: 50%;
     object-fit: cover;
 }
