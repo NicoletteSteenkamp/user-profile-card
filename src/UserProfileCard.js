@@ -10,7 +10,7 @@ function UserProfileCard() {
 
 My academic background, combined with practical experience gained through i personal projects, has equipped me with proficiency in various programming languages and development tools. I am comfortable collaborating with cross-functional teams and contributing positively to project objectives.
 
-Eager to further develop my skills and contribute to innovative projects, I am enthusiastic about embracing new challenges and opportunities for growth in the dynamic field of software engineering..</p>
+Eager to further develop my skills and contribute to innovative projects.</p>
         </div>
     );
 }
